@@ -3,4 +3,3 @@ Research topic is Study on The Influence of Drilling Parameters on Cortical Bone
 The main content of this research is to use finite element simulation software to simulate the process of cortical bone drilling and to study the impact of drilling parameters on the entire process, to provide suggestions and references for future related medical research.
 In this research, the most important data is the simulation results of cortical bone drilling process using finite element software. 
 The finite element software used in the simulation process is ABAQUS, which can intuitively display the simulation results, and can store the result data as an Excel table according to the needs of users.
-In this study, the amount of the first three data is approximately 50KB-250KB, the amount of drilling force data will be around 500KB and the amount of simulation model data is about 1GB-5GB.
